@@ -1,0 +1,35 @@
+main {
+    background-color: #1D75DE;
+    height: 400px;
+    width: 100%;
+    display: inline-block;
+    text-align: center;
+    line-height: 1.5;
+    font-family: 'Helvetica Neue', -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
+        'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans',
+        sans-serif;
+}
+
+a {
+    color: #FFFFFF;
+}
+
+.terms {
+    font-size: 10px;
+    font-weight: 400;
+    color: #FFFFFF;
+    padding-top: 20px;
+}
+
+.price {
+    font-size: 24px;
+    font-weight: 400;
+    color: #FFFFFF;
+}
+
+h1 {
+    font-size: 39px;
+    font-weight: 700;
+    padding-top: 72px;
+    color: #FFFFFF;
+}

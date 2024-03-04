@@ -1,11 +1,12 @@
-
+import { LandingPageHeader } from './component/Header/LandingPageHeader'
 import './App.css';
-import {LandingPageHeader} from './component/Header/LandingPageHeader';
+import { TopBody } from './component/Body/TopBody/TopBody';
 
 export function App() {
   return (
-    <div>
-      
+    <div >
+      <LandingPageHeader />
+      <TopBody />
     </div>
   );
 }
